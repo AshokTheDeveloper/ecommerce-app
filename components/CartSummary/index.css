@@ -1,0 +1,20 @@
+.total-order-heading {
+  font-family: 'Roboto';
+  font-size: 18px;
+}
+
+.active-cart-items-text {
+  font-family: 'Roboto';
+}
+
+.check-out-button {
+  width: 100%;
+  background-color: #0967d2;
+  color: #ffffff;
+  font-family: 'Roboto';
+  padding: 8px 16px;
+  border: none;
+  outline: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
